@@ -1,6 +1,6 @@
 # Zhang-Suen-Thinning-Algorithm
 
-### This is the implementation of the Zhang-Suen thinning algorithm. It's implemented with two different ways. A serial and a parallel version.
+### This is the implementation of the Zhang-Suen thinning algorithm. It's implemented with two different ways. A serial and a parallel version. The parallel version is implemented with the [MPI](https://en.wikipedia.org/wiki/Message_Passing_Interface) standard and more specifically with the [MPICH](https://www.mpich.org/) implementation.
 
 
 
@@ -38,4 +38,4 @@
 
 ## References
 
-The algorithm is based on this [paper](https://d1wqtxts1xzle7.cloudfront.net/32991163/thiniing_algo.pdf?1392347248=&response-content-disposition=inline%3B+filename%3DRESEARCH_CONTRIBUTIONS_Image_Processing.pdf&Expires=1619206421&Signature=Z7bGRaN~6EHuYZdS0kGlJ1XDnlG7UsrEs-w7GGjjlRBflE3Ik2oGGy78XjSFdNEeUYHEEzzhlLPbnDoXyo~bhTWKYdZukSV7lngACt3v6L0L4nuFXLFvHihchqqy7JkMBJE3M3ki4fJX38hKQdMQuYOll8m3dArZJ11GGtq-dtlDjxzAyHlOmmWXaQX39fYAa0Dpb4KlCLF3USC3tJoB~EXrlNRaKGupMIWsMWyXvHb1vfzNAWFDlzAO1Had1F5A-GiEQgHCoE~gJkQk0jVdwM-ZIQM7PUPoW3hly2cfYp2qsF8tdMSJn9quMrgWWFWyITyjgWvxvmLSU3ULRuWBQg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+The algorithm is based on this [paper](https://d1wqtxts1xzle7.cloudfront.net/32991163/thiniing_algo.pdf?1392347248=&response-content-disposition=inline%3B+filename%3DRESEARCH_CONTRIBUTIONS_Image_Processing.pdf&Expires=1619206421&Signature=Z7bGRaN~6EHuYZdS0kGlJ1XDnlG7UsrEs-w7GGjjlRBflE3Ik2oGGy78XjSFdNEeUYHEEzzhlLPbnDoXyo~bhTWKYdZukSV7lngACt3v6L0L4nuFXLFvHihchqqy7JkMBJE3M3ki4fJX38hKQdMQuYOll8m3dArZJ11GGtq-dtlDjxzAyHlOmmWXaQX39fYAa0Dpb4KlCLF3USC3tJoB~EXrlNRaKGupMIWsMWyXvHb1vfzNAWFDlzAO1Had1F5A-GiEQgHCoE~gJkQk0jVdwM-ZIQM7PUPoW3hly2cfYp2qsF8tdMSJn9quMrgWWFWyITyjgWvxvmLSU3ULRuWBQg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA).
