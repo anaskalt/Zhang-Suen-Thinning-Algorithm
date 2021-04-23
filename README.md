@@ -24,7 +24,7 @@
 | 4             | 0.0805224          | 0.903                 | 0.225             | 0.0066016             |
 | 8             | 0.2064952          | 0.352                 | 0.044             | 0.1831272             |
 | 16            | 0.4732442          | 0.153                 | 0.009             | 0.4098266             |
-
+</br>
 
 ![before](/examples/bin_lines/bin_lines.png) &nbsp; &nbsp; ![after](/examples/bin_lines/bin_lines_skeleton.png)
 
