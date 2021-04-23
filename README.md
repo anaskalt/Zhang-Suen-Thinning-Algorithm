@@ -2,6 +2,26 @@
 
 | Processes     | Execution Time (s) |Acceleration (Sp=Ts/Tp)|Efficiency (Sp/p)  | Communication Cost (s)|
 |:-------------:|:------------------:|:---------------------:|:-----------------:|:---------------------:|
-| col 3 is      | right-aligned      |                       |                   | $1600                 |
-| col 2 is      | centered           |                       |                   |  $12                  |
-| zebra stripes | are neat           |                       |                   |  $1                   |
+| 1             | right-aligned      |                       |                   | $1600                 |
+| 2             | centered           |                       |                   |  $12                  |
+| 4             | are neat           |                       |                   |  $1                   |
+| 8             | are neat           |                       |                   |  $1                   |
+| 16            | are neat           |                       |                   |  $1                   |
+
+
+| Processes     | Execution Time (s) |Acceleration (Sp=Ts/Tp)|Efficiency (Sp/p)  | Communication Cost (s)|
+|:-------------:|:------------------:|:---------------------:|:-----------------:|:---------------------:|
+| 1             | right-aligned      |                       |                   | $1600                 |
+| 2             | centered           |                       |                   |  $12                  |
+| 4             | are neat           |                       |                   |  $1                   |
+| 8             | are neat           |                       |                   |  $1                   |
+| 16            | are neat           |                       |                   |  $1                   |
+
+
+| Processes     | Execution Time (s) |Acceleration (Sp=Ts/Tp)|Efficiency (Sp/p)  | Communication Cost (s)|
+|:-------------:|:------------------:|:---------------------:|:-----------------:|:---------------------:|
+| 1             | right-aligned      |                       |                   | $1600                 |
+| 2             | centered           |                       |                   |  $12                  |
+| 4             | are neat           |                       |                   |  $1                   |
+| 8             | are neat           |                       |                   |  $1                   |
+| 16            | are neat           |                       |                   |  $1                   |
