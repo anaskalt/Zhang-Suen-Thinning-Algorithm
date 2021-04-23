@@ -14,6 +14,7 @@
 | 8             | 0.2005016          | 0.634                 | 0.079             | 0.1286832             |
 | 16            | 0.4238256          | 0.3                   | 0.018             | 0.3372468             |
 
+
 ![before](/examples/B/B.png) &nbsp; &nbsp; ![after](/examples/B/B_skeleton.png)
 
 | Processes     | Execution Time (s) |Acceleration (Sp=Ts/Tp)|Efficiency (Sp/p)  | Communication Cost (s)|
@@ -23,6 +24,7 @@
 | 4             | 0.0805224          | 0.903                 | 0.225             | 0.0066016             |
 | 8             | 0.2064952          | 0.352                 | 0.044             | 0.1831272             |
 | 16            | 0.4732442          | 0.153                 | 0.009             | 0.4098266             |
+
 
 ![before](/examples/bin_lines/bin_lines.png) &nbsp; &nbsp; ![after](/examples/bin_lines/bin_lines_skeleton.png)
 
