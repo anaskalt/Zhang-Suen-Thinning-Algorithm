@@ -2,7 +2,7 @@
 
 ### This is the implementation of the Zhang-Suen thinning algorithm. It's implemented with two different ways. A serial and a parallel version. The parallel version is implemented with the [MPI](https://en.wikipedia.org/wiki/Message_Passing_Interface) standard and more specifically with the [MPICH](https://www.mpich.org/) implementation.
 
-
+!!!!!!! ANESTI!!!!!!!!!!!
 
 ![before](/examples/A/A.png) &nbsp; &nbsp; ![after](/examples/A/A_skeleton.png)
 
